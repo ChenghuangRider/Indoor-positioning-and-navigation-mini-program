@@ -1,4 +1,3 @@
-import { StrictMode } from 'react'
 import { useEffect, useState } from 'react'
 import { Toaster } from 'sonner'
 import Mascot from '@/components/Mascot'
